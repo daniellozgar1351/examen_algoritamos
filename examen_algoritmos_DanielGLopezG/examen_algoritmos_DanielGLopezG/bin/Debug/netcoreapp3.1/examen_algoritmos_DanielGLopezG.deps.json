@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "examen_algoritmos_DanielGLopezG/1.0.0": {
+        "runtime": {
+          "examen_algoritmos_DanielGLopezG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "examen_algoritmos_DanielGLopezG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
