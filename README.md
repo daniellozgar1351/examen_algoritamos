@@ -1,1 +1,1 @@
-# examen_algoritamos
+# examen_algoritmos
